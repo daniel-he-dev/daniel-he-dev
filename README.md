@@ -8,6 +8,7 @@
 - :mortar_board:  Hack Reactor ATX Cohort 53
 - :earth_americas:  Looking to make an impact
 
+
 ## Tech I Use Currently
 <table>
   <tr>
@@ -32,10 +33,13 @@
   </tr>
 </table>
 
+
 ## Reach Me Here
 - [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/danielhe96/)
 - [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danielhe.mlp@gmail.com)
 - [<img alt="Instagram" src="https://img.shields.io/badge/danielheisme%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/danielheisme)
+
+
 
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-he-dev&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
