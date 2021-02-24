@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>Databases</td>
-    <td><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/-mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/></td>
   </tr>
   <tr>
     <td>Testing</td>
