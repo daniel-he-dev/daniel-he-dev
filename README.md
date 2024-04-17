@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/daniel-he-dev/daniel-he-dev/main/github-header.png" alt="Hi there! I'm Daniel He" title="Hi there! I'm Daniel He"/>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=daniel-he-dev.daniel-he-dev&style=for-the-badge&color=00cf00) [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/danielhe96/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danielhe.mlp@gmail.com) [<img alt="Instagram" src="https://img.shields.io/badge/danielheisme%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/danielheisme)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/danielhe96/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danielhe.mlp@gmail.com) [<img alt="Instagram" src="https://img.shields.io/badge/danielheisme%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/danielheisme)
 
 ## About Me
 - :computer:  Full-stack software engineer
