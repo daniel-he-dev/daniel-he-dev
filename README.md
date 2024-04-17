@@ -4,7 +4,8 @@
 
 ## About Me
 - :computer:  Full-stack software engineer
-- :ox: University of Texas at Austin, Class of 2018
+- :ox: University of Texas at Austin Alumnus
+- :robot: Working in real-world AI application
 - :earth_americas:  Looking to make an impact
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-he-dev&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
